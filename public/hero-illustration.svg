@@ -1,0 +1,36 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Elements -->
+  <rect width="800" height="600" fill="#F3F4F6" />
+  <circle cx="400" cy="300" r="250" fill="#E5E7EB" />
+  
+  <!-- Code Elements -->
+  <rect x="200" y="150" width="400" height="300" rx="10" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2" />
+  
+  <!-- Code Lines -->
+  <rect x="230" y="180" width="120" height="10" rx="2" fill="#93C5FD" />
+  <rect x="230" y="210" width="200" height="10" rx="2" fill="#93C5FD" />
+  <rect x="230" y="240" width="160" height="10" rx="2" fill="#93C5FD" />
+  <rect x="230" y="270" width="180" height="10" rx="2" fill="#93C5FD" />
+  <rect x="230" y="300" width="140" height="10" rx="2" fill="#93C5FD" />
+  <rect x="230" y="330" width="220" height="10" rx="2" fill="#93C5FD" />
+  <rect x="230" y="360" width="170" height="10" rx="2" fill="#93C5FD" />
+  
+  <!-- Person Elements -->
+  <circle cx="500" cy="200" r="30" fill="#60A5FA" />
+  <path d="M500 240 L500 280 L470 310 L530 310 L500 280 Z" fill="#60A5FA" />
+  
+  <circle cx="300" cy="200" r="30" fill="#60A5FA" />
+  <path d="M300 240 L300 280 L270 310 L330 310 L300 280 Z" fill="#60A5FA" />
+  
+  <!-- Decorative Elements -->
+  <circle cx="150" cy="150" r="20" fill="#FCD34D" />
+  <circle cx="650" cy="450" r="25" fill="#F87171" />
+  <circle cx="700" cy="200" r="15" fill="#34D399" />
+  
+  <!-- Code Symbols -->
+  <text x="250" y="190" font-family="monospace" font-size="14" fill="#1F2937">&lt;div&gt;</text>
+  <text x="250" y="220" font-family="monospace" font-size="14" fill="#1F2937">&lt;h1&gt;Hello World&lt;/h1&gt;</text>
+  <text x="250" y="250" font-family="monospace" font-size="14" fill="#1F2937">&lt;p&gt;Welcome to IT Shaala&lt;/p&gt;</text>
+  <text x="250" y="280" font-family="monospace" font-size="14" fill="#1F2937">&lt;button&gt;Learn More&lt;/button&gt;</text>
+  <text x="250" y="310" font-family="monospace" font-size="14" fill="#1F2937">&lt;/div&gt;</text>
+</svg> 
